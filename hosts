@@ -1,7 +1,7 @@
-[linux-test-hosts]
+[linux_test_hosts]
 leerjet01
 leerjet02
 
-[black-box-hosts]
+[black_box_hosts]
 
-[web-hosts]
+[web_hosts]
