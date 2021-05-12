@@ -1,6 +1,6 @@
-[linux_test_hosts]
+[linuxTest]
 leerjet01
 leerjet02
 
-[black_box_hosts]
+[blackBox]
 
